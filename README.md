@@ -1,4 +1,4 @@
-# 🎵 Projeto Minhas Músicas
+## 🎵 Projeto Minhas Músicas
 
 Este projeto foi desenvolvido como parte de um curso com foco em **Programação Orientada a Objetos (POO)**, explorando na prática conceitos como **encapsulamento**, **herança** e **polimorfismo** por meio de uma aplicação simples de gerenciamento de áudios.
 
@@ -6,7 +6,7 @@ A aplicação simula o comportamento de diferentes tipos de mídia sonora, como 
 
 ---
 
-## 🧠 Conceitos de Orientação a Objetos Aplicados
+### 🧠 Conceitos de Orientação a Objetos Aplicados
 
 - **Encapsulamento**  
   Os atributos das classes são privados e acessados apenas por meio de métodos públicos (getters e setters), impedindo o acesso direto pela classe principal.
@@ -19,7 +19,7 @@ A aplicação simula o comportamento de diferentes tipos de mídia sonora, como 
 
 ---
 
-## 🏗 Estrutura do Projeto
+### 🏗 Estrutura do Projeto
 
 A modelagem do sistema é baseada em uma classe base **`Audio`**, que representa características comuns a qualquer mídia sonora, como:
 
@@ -54,7 +54,7 @@ Essa separação garante organização, reutilização de código e facilidade d
 
 ---
 
-## 🎯 Objetivo do Projeto
+### 🎯 Objetivo do Projeto
 
 Demonstrar a aplicação correta dos pilares da Programação Orientada a Objetos em Java, com foco em:
 - Modelagem de classes
